@@ -13,7 +13,7 @@ function RealTimeUsers(){
     };
 
     var _initElement = function() {
-        var inner = '<span style="color:#666;"><div class="realtimeuserscounter__num">&mdash;</div>人が接続中</span>';
+        var inner = '<span id="onlineview" style="color:#666;"><div class="realtimeuserscounter__num"></div>人が接続中</span>';
 
         Array.prototype.forEach.call(_counters, function(counter) {
           counter.innerHTML = inner;
