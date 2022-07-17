@@ -1,0 +1,695 @@
+@media screen and (max-width: 479px) {
+ h1 {
+  font-size: 18px;
+  height: auto;
+  line-height: 1.2;
+  margin: 18px auto 16px;
+  padding: 3px 7px;
+  width: 94%;
+ }
+
+ img {
+  border: none;
+  height: auto;
+  max-width: 100%;
+ }
+
+ address {
+  clear: both;
+  margin: 0 auto;
+  padding: 15px 0 20px 0px;
+  text-overflow: ellipsis;
+  width: 99%;
+  word-break: normal;
+ }
+
+ .detailtext {
+  display: inline-block;
+  float: none;
+  margin: 0 auto;
+  width: 95%;
+ }
+
+ .table-wrap {
+  max-width: 100%;
+  overflow-x: auto;
+ }
+
+ .blogCFoot {
+  line-height: 1.6;
+  margin: 10px 12px 30px auto;
+  padding: 0px;
+  text-align: right;
+  width: 20em;
+ }
+
+ .TableIndex {
+  font-weight: bold;
+  padding: 5px 10px;
+  text-align: center;
+ }
+
+ .FormTable td {
+  display: block;
+  margin: 0 auto;
+  width: 93%;
+ }
+
+ .FormTable {
+  margin: 0 auto;
+  width: 90%;
+ }
+
+ .TableBody {
+  padding: 7px 10px;
+ }
+
+ .blogComments {
+  border-bottom: 1px dashed rgb(50, 50, 50);
+  margin: 0 auto;
+  padding: 0;
+  width: 95%;
+ }
+
+ .center {
+  margin: 0 auto;
+  width: 100%;
+ }
+
+ #Blog .blogComments {
+  margin-bottom: 13px;
+  padding: 0;
+ }
+
+ #NetShop #gdetail .MenuPrice {
+  margin-left: 5px;
+ }
+
+ #DpicB {
+  display: inline-block;
+  float: none;
+  margin: 12px auto 14px;
+  0: width 80%;
+ }
+
+ #calendar div.calendarTable {
+  width: 100%;
+ }
+
+ #FreePage h3 {
+  margin: 1.5em -7px 11px;
+  padding: 7px;
+ }
+
+ #FreePage {
+  line-height: 1.6;
+  margin: 0 auto;
+  padding: 4px 0px 14px;
+  width: 92%;
+ }
+
+ #footer {
+  line-height: 1.4;
+  padding: 7px 8px;
+ }
+
+ ul#FootLink {
+  display: none;
+  font-size: 14px;
+  margin: 8px auto;
+  width: 95%;
+ }
+
+ #calendar td {
+  padding-top: 8px;
+ }
+
+ #contact td {
+  display: block;
+  margin: 0 auto;
+  width: 92%;
+ }
+
+ #bbs .bbsBox h3 {
+  font-size: 14px;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  padding-left: 0;
+  padding-top: 10px;
+  width: 100%;
+ }
+
+ #PageExp {
+  line-height: 1.6;
+  margin: 0 auto 19px;
+  width: 89%;
+ }
+
+ #AlbumPage {
+  margin: 0 auto;
+  padding: 0;
+  text-align: left;
+  width: 90%;
+ }
+
+ #AlbumExp {
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 18px auto 24px;
+  padding: 0;
+  text-align: left;
+  width: 93%;
+ }
+
+ #AlbumPage .thum {
+  display: inline-block;
+  float: none;
+  margin: 8px 5px;
+  padding: 4px;
+  vertical-align: top;
+  width: 41%;
+ }
+
+ #AlbumPage .clear {
+  display: inline;
+ }
+
+ #linkPage h2 {
+  font-size: 1em;
+  line-height: 1.3;
+  margin: 15PX auto 0;
+  padding: 5px 12px 3px 12px;
+  text-align: left;
+  width: 89%;
+ }
+
+ #linkPage dt {
+  font-size: 1em;
+  margin: 24px auto 10PX;
+  width: 91%;
+ }
+
+ #linkPage dd {
+  border-bottom: 1px solid #676767;
+  font-size: 1em;
+  margin: 16px auto;
+  padding: 0;
+  width: 91%;
+ }
+
+ #Blog .blogBlock {
+  margin: 0 AUTO 35px;
+  padding: 0;
+  width: 96%;
+ }
+
+ #Blog .blogBlock .subject {
+  font-size: 1em;
+  line-height: 1.6;
+  margin: 22px auto 19px;
+  padding: 0;
+  width: 93%;
+ }
+
+ #Blog .blogBlock h2 {
+  margin: 8px auto;
+  padding: 5px 8px;
+  width: 93%;
+ }
+
+ #Blog .tuiki {
+  margin: 18px;
+ }
+
+ #Blog .blogComment {
+  margin: 0 auto 60px;
+  padding: 0;
+  width: 95%;
+ }
+
+ #Blog .blogComment h3 {
+  border-bottom: 1px solid rgb(92, 92, 92);
+  font-size: 1.1em;
+  margin: 6px 7px;
+  padding: 13px 4px 2px;
+ }
+
+ #Blog .blogComment h4 {
+  font-size: 1em;
+  margin: 0 auto;
+  padding: 10px 6px 3px;
+ }
+
+ #Blog .blogCommentP {
+  font-size: 1em;
+  line-height: 1.6;
+  margin: 8px auto 15px;
+  padding: 7px 0;
+  width: 94%;
+ }
+
+ #bbs .bbsBox {
+  border-bottom: 2px dotted rgb(161, 161, 161);
+  margin: 0 auto;
+  padding: 17px 0;
+  width: 92%;
+ }
+
+ #bbs .name {
+  line-height: 1.5;
+  margin: 0px auto;
+  padding: 0;
+ }
+
+ #bbs .bbsBox p {
+  clear: both;
+  line-height: 1.5;
+  margin: 24px auto;
+  padding: 16px 0 10px;
+  width: 100%;
+ }
+
+ #bbs .bbsBox address {
+  font-size: 13px;
+  margin: 0 auto 20px;
+  padding: 0;
+  width: 98%;
+ }
+
+ #bbs img {
+  margin: 0 auto 1em;
+ }
+
+ #bbs .bbsReply {
+  margin: 20px auto;
+  padding: 12px;
+  width: 92%;
+ }
+
+ #novel h2 {
+  font-size: 16px;
+  margin: 25px auto 8px;
+  padding: 0 0 0 0px;
+ }
+
+ #novel h3 {
+  font-size: 15px;
+  margin: 0  auto;
+  padding: 0;
+ }
+
+ #novel {
+  line-height: 1.6;
+  margin: 17px auto 35px;
+  padding: 0;
+  width: 94%;
+ }
+
+ #novel h3#indexChapter {
+  margin: 24px auto 10px;
+  width: 100%;
+ }
+
+ #novel .novelList {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+ }
+
+ #novel div.pageExp {
+  font-size: 14px;
+  margin: 0 auto;
+  padding-top: 14px;
+  width: 97%;
+ }
+
+ #novel p.pageExp {
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 9px auto;
+ }
+
+ #novelP {
+  line-height: 1.6;
+  margin: 37px auto;
+  width: 99%;
+ }
+
+ #MailMagazineForm {
+  margin-bottom: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  padding-bottom: 10px;
+  padding-top: 0;
+  width: 87%;
+ }
+
+ #NetShop div.ShopBody {
+  display: inline-block;
+  margin: 0px auto 40px;
+  padding-top: 5px;
+  width: 93%;
+ }
+
+ #NetShop .gbox {
+  vertical-align: top;
+ }
+
+ #ShopLayout2 .gbox {
+  height: auto;
+  margin: 17px auto;
+  padding: 5px;
+  width: 93%;
+ }
+
+ #ShopLayout2 .gtext {
+  margin: 0 auto;
+  width: 95%;
+ }
+
+ #NetShop .gbox h3 {
+  line-height: 1.4;
+  margin: 0;
+ }
+
+ #ShopLayout2 .gbox h3
+　 {
+  margin: 8px 0 19px;
+ }
+
+ #ShopLayout2 .buttons {
+  margin: 17px 0 7px;
+ }
+
+ #ShopLayout2 .MenuPrice {
+  margin-top: 10px;
+  padding: 0 7px;
+ }
+
+ #ShopLayout2 .gbox .exp {
+  font-size: 1em;
+  margin: 8px 7px 18px;
+  overflow: hidden;
+  padding: 7px;
+ }
+
+ #ShopLayout3 .gbox {
+  margin: 8px 0;
+ }
+
+ #ShopLayout3 .MenuPrice {
+  margin-left: 10px;
+  padding: 7px 0;
+  width: 42%;
+ }
+
+ #ShopLayout3 .buttons {
+  margin-right: 8px;
+  padding: 7px 0;
+  width: 45%;
+ }
+
+ #ShopLayout1 .gbox {
+  margin-bottom: 0;
+  margin-top: 38px;
+  width: 99%;
+ }
+
+ #ShopLayout1 .gtext {
+  float: right;
+  width: 64%;
+ }
+
+ #ShopLayout1 .gbox .exp {
+  line-height: 1.6;
+  margin: 6px 6px 8px 12px;
+  padding: 10px 0;
+  width: 91%;
+ }
+
+ #detailExp {
+  font-size: 1em;
+  line-height: 1.6;
+  margin: 0 auto;
+  padding: 10px 0 26px 0;
+  width: 89%;
+ }
+
+ #wrap {
+  padding-top: 50px;
+  position: relative;
+  width: 94%;
+ }
+
+ #head {
+  background-size: 100%;
+  height: 0;
+  padding-top: 11%;
+ }
+
+ #header-contents {
+  color: rgb(0, 0, 0);
+  left: 8px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 19px;
+  visibility: hidden;
+  width: auto;
+ }
+
+ #header-contents h2 {
+  color: #FFFFFF;
+  font-size: 20px;
+  margin: 0px 0 5px 0;
+  text-align: left;
+  visibility: visible;
+ }
+
+ #header-contents p {
+  background-color: rgba(255, 255, 255, 0.44);
+  color: black;
+  display: none;
+  line-height: 1.4;
+  margin: 0px 0 0 0;
+  padding: 4px 10px;
+  text-align: left;
+ }
+
+ #MainBody {
+  margin-top: 0px;
+  width: 100%;
+ }
+
+ #profile {
+  margin: 10px auto 27px;
+  padding: 0;
+  width: 92%;
+ }
+
+ #cart .FormTable .TableBody {
+  min-height: 22px;
+  text-align: left;
+ }
+
+ #cart .FormTable {
+  width: 91%;
+ }
+
+ #cart .FormTable td {
+  display: block;
+  width: 97%;
+ }
+
+ #cart .TableBody {
+  font-size: 13px;
+  padding: 4px;
+  text-align: center;
+ }
+
+ #cart .TableIndex {
+  margin: 0;
+  padding: 4px;
+ }
+
+ #NetShop .total {
+  font-size: 1em;
+  line-height: 2;
+ }
+
+ #NetShop .cartTable {
+  table-layout: fixed;
+  width: 97%;
+  word-wrap: break-word;
+ }
+
+ #NetShop .step br {
+  display: none;
+ }
+
+ #stepBlock {
+  margin: 0 auto;
+  padding: 10px 0 0 0;
+ }
+
+ #NetShop .step {
+  float: none;
+  font-size: 1em;
+  height: auto;
+  line-height: 2;
+  margin: 9px auto 13px;
+  width: 60%;
+ }
+
+ #NetShop #cart {
+  margin: 0 auto 20px;
+ }
+
+ #profile h2 {
+  font-size: 14px;
+  margin: 0 auto;
+  padding: 7px 22px;
+ }
+
+ #profile img {
+  margin: 10px 0px;
+ }
+
+ #profile dl {
+  margin: 0 auto 14px;
+  padding: 0;
+  width: 88%;
+ }
+
+ #profile dt {
+  font-size: 14px;
+  padding: 0 3px;
+ }
+
+ #counter {
+  margin: 23px auto 30px;
+  width: 74%;
+ }
+
+ #AlbumPage .PicName {
+  line-height: 1;
+ }
+
+ #AlbumPage .PicComment {
+  font-size: 0.9em;
+  line-height: 1.2;
+  padding: 5px 0;
+ }
+
+ #blogComForm {
+  padding: 11px;
+  width: 76%;
+ }
+
+ #ShopLayout1 .buttons {
+  margin: 10px -8px;
+  width: 100%;
+ }
+
+ #ContactTable textarea {
+  width: 89%;
+ }
+
+ #contact table {
+  width: 88%;
+ }
+
+ #Blog .blogFoot {
+  font-size: 14px;
+  margin: 0 auto;
+  width: 90%;
+ }
+
+ #blogArchives li {
+  font-size: 14px;
+  padding: 7px 10px;
+ }
+
+ ul#MenuLink {
+  margin: 0 auto;
+  padding: 0;
+  width: 92%;
+ }
+
+ #calendar {
+  width: 92%;
+ }
+
+ #FreePage h2 {
+  margin: 1.5em -5px 18px;
+  padding: 6px;
+ }
+
+ #calendar table, #bbs .day {
+  font-size: 13px;
+ }
+
+ #Blog .blogP, #Blog #tuiki {
+  line-height: 1.6;
+  margin: 0 auto;
+  padding: 0;
+  width: 93%;
+ }
+
+ #MenuLink li, #MenuLink li.active {
+  padding: 2px  23px;
+ }
+
+ #blogNew, #blogArchives {
+  border: solid 2px #3366CC;
+  width: 92%;
+ }
+
+ #blogCategory h2, #blogNewCom h2, #blogArchives h2 {
+  margin-top: 0;
+ }
+
+ #blogNew li:last-child, #blogCategory li:last-child, #blogNewCom li:last-child {
+  border: none;
+ }
+
+ #blogNew ul, #blogNewCom ul, #blogCategory ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+ }
+
+ #blogNew li, #blogCategory li, #blogNewCom li {
+  border-bottom: solid 2px #3366CC;
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 9px 12px;
+ }
+
+ #blogCategory, #blogNewCom {
+  border: solid 2px #3366CC;
+  margin-bottom: 41px;
+  width: 92%;
+ }
+
+ #blogNew h2, #calendar h2, #counter dt, #counter dd, #novelLinkToIndex, #profile dd {
+  font-size: 14px;
+ }
+
+ #NetShop .payExp, #NetShop .pay_fee, #NetShop .pay_exp, #NetShop .payFee {
+  margin: 2px auto 10px;
+  width: 86%;
+ }
+
+ #MainBodyRight, #MainBodyLeft {
+  float: none;
+  margin: 0 auto 23px;
+  width: 98%;
+ }
+
+}
+
