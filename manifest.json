@@ -1,0 +1,29 @@
+{
+  "lang": "ja",
+  "name": "★フレンドコード交換所★",
+  "short_name": "FCC",
+  "start_url": "https://www2.hp-ez.com/hp/rara/",
+  "display": "standalone",
+  "theme_color": "#0971ac",
+  "icons": [{
+      "src": "/images/launcher-icon48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+      "src": "/images/launcher-icon-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+      "src": "/images/launcher-icon-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+      "src": "/images/launcher-icon-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  },{
+      "src": "/images/launcher-icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
