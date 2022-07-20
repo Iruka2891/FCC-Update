@@ -1,0 +1,65 @@
+#page-top span {
+    color: #4f5660;
+    font-weight: bold;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background:#e3e5e8;
+    border-radius: 50%;
+    width: 43px;
+    height: 43px;
+    color: #4f5660;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:1.3rem;
+    transition:all 0.3s;
+    box-shadow: 0 0 3px gray;
+    transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+}
+
+#page-top span:hover {
+    background: #c6c7cb;
+}
+
+#page-top {
+    position: fixed;
+    right: 17px;
+    bottom:25px;
+    z-index: 2;
+    opacity: 0;
+    transform: translateX(100px);
+}
+
+#page-top.LeftMove{
+    animation: LeftAnime 0.5s forwards;
+}
+
+@keyframes LeftAnime{
+    from {
+        opacity: 0;
+        transform: translateX(100px);
+    }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+    }
+}
+
+#page-top.RightMove{
+    animation: RightAnime 0.5s forwards;
+}
+
+@keyframes RightAnime{
+    from {
+        opacity: 1;
+        transform: translateX(0);
+  }
+
+  to {
+      opacity: 1;
+      transform: translateX(100px);
+    }
+}
