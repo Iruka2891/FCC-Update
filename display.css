@@ -2,7 +2,7 @@ body {
     height: 100%;
 }
 
-#nosc {
+.nosc {
     position: fixed;
     top: 0;
     left: 0;
@@ -12,7 +12,7 @@ body {
     z-index: 100000000000;
 }
 
-#box {
+.box {
     width: 75%;
     color: #494949;
     font-size: 18px;
@@ -23,13 +23,13 @@ body {
     padding: 12px;
 }
 
-#boxtitle {
+.boxtitle {
     font-weight: bold;
     font-size: 19px;
     padding-bottom: 14px;
 }
 
-#boxbg {
+.boxbg {
     width: 100%;
     background: #fff;
     border-top: solid 2px #ff99cc;
